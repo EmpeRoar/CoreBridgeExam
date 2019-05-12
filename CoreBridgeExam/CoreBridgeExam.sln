@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreBridge.ConsoleApp", "CoreBridge.ConsoleApp\CoreBridge.ConsoleApp.csproj", "{87B61333-E9E3-4372-BAE4-C503ED9C9523}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreBridge.Test", "CoreBridge.Test\CoreBridge.Test.csproj", "{CABC1B14-051E-4A9B-8759-1BADF74D4500}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87B61333-E9E3-4372-BAE4-C503ED9C9523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B61333-E9E3-4372-BAE4-C503ED9C9523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B61333-E9E3-4372-BAE4-C503ED9C9523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B61333-E9E3-4372-BAE4-C503ED9C9523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CABC1B14-051E-4A9B-8759-1BADF74D4500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABC1B14-051E-4A9B-8759-1BADF74D4500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABC1B14-051E-4A9B-8759-1BADF74D4500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABC1B14-051E-4A9B-8759-1BADF74D4500}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B10837BC-3687-41DD-89AA-095EACF22C5E}
+	EndGlobalSection
+EndGlobal
